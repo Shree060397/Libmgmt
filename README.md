@@ -1,2 +1,0 @@
-# Libmgmt
-library management system
